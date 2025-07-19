@@ -10,3 +10,4 @@ music = {
     "tum":"https://www.youtube.com/watch?v=mt9xg0mmt28&list=RDmt9xg0mmt28&start_radio=1&pp=ygUWdHVtIHNlIGhpIGRpbiBob3RhIGhhaaAHAQ%3D%3D",
     "bulleya":"https://youtu.be/_51KXfwcPMs?list=RD_51KXfwcPMs"
 }
+#Add your personal favourite songs!
