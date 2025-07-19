@@ -38,12 +38,12 @@ cd alpha-voice-assistant
 
 pip install -r requirements.txt
 
-4. **Create a .env file**
+3. **Create a .env file**
 
 GEMINI_API_KEY=your_gemini_api_key
 NEWS_API_KEY=your_newsapi_key
 
-6. **Run the assistant**
+4. **Run the assistant**
 
 python alpha.py
 
