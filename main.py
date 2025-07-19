@@ -12,7 +12,6 @@ from dotenv import load_dotenv
 
 load_dotenv() 
 
-# Save API in .env file to keep it secured
 newsapi = os.getenv("NEWS_API_KEY")
 os.environ['GEMINI_API_KEY'] = os.getenv("GEMINI_API_KEY")
 
