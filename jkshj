@@ -1,0 +1,12 @@
+# Initialize git (if not done yet)
+git init
+
+# Add your remote repo (replace USERNAME and REPO with your GitHub info)
+git remote add origin https://github.com/krishhj/Alpha-Voice-Assistant.git
+# Add files and commit
+git add .
+git commit -m "Initial commit - Added Alpha Voice Assistant"
+
+# Push to GitHub
+git branch -M main
+git push -u origin main
