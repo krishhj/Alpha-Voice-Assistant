@@ -136,7 +136,7 @@ if __name__ == "__main__":
                 speak("Yes?")
                 with sr.Microphone() as source:
                     print("Listening for your command...")
-                    audio = r.listen(source, phrase_time_limit=3)
+                    audio = r.listen(source, phrase_time_limit=5)
                     command = r.recognize_google(audio)
                     print("Command recognized:", command)
                     processCommand(command)
